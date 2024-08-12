@@ -7,10 +7,17 @@
 
 **Problem Statement 1: Sales performance varies significantly across different outlet types, with some types underperforming.**
 
+
+![Report 1](https://github.com/user-attachments/assets/eb95a507-0389-4b29-96e6-f1e173aef5b5)
+
+
 **Conclusion:**
 The analysis reveals significant sales discrepancies across different outlet types. Specifically, supermarket-type outlets outperform grocery stores in overall sales. However, certain product categories within grocery stores show potential for growth, indicating an opportunity to refine the product mix and marketing strategies tailored to these outlet types. By addressing these gaps, particularly in underperforming outlet types, there is potential to boost overall sales performance and ensure a more balanced contribution across different outlet types.
 
 **Problem Statement 2: Items with low visibility in the store have significantly lower sales compared to high-visibility items.**
+
+
+![Report 2](https://github.com/user-attachments/assets/b1dc485c-8b55-4d4f-9b95-678690c90edf)
 
 
 **Conclusion:**
